@@ -11,3 +11,7 @@ https://generativeartistry.com/tutorials/
 https://glitch.com/edit/#!/generative-art-bot?path=README.md:1:0
 https://www.reddit.com/r/generative/comments/9opi59/cool_generative_artists_and_their_websites/
 https://hydra-editor.glitch.me/
+
+
+Possibly framework for handtracking:
+https://github.com/victordibia/handtracking
