@@ -17,3 +17,4 @@ Possibly framework for handtracking:
 https://github.com/victordibia/handtracking
 
 Check out Spring for tempalte classes
+https://shinesolutions.com/2007/08/04/how-to-close-jdbc-resources-properly-every-time/
