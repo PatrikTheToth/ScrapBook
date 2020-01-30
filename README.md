@@ -15,3 +15,5 @@ https://hydra-editor.glitch.me/
 
 Possibly framework for handtracking:
 https://github.com/victordibia/handtracking
+
+Check out Spring for tempalte classes
