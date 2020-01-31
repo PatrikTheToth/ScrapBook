@@ -30,3 +30,7 @@ https://vladmihalcea.com/hypersistence-optimizer/
 For java bug hunt:
 http://findbugs.sourceforge.net/
 https://code.google.com/archive/p/log4jdbc/
+
+
+For tricky text situations:
+https://www.textpad.com/
