@@ -26,3 +26,7 @@ https://www.spatialtimes.com/2019/01/Create-a-JavaScript-Weather-App-with-Locati
 
 Hibernate fuckery untangle thingamajig:
 https://vladmihalcea.com/hypersistence-optimizer/
+
+For java bug hunt:
+http://findbugs.sourceforge.net/
+https://code.google.com/archive/p/log4jdbc/
