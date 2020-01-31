@@ -18,3 +18,7 @@ https://github.com/victordibia/handtracking
 
 Check out Spring for tempalte classes
 https://shinesolutions.com/2007/08/04/how-to-close-jdbc-resources-properly-every-time/
+
+
+Weather widget app scaffolding:
+https://www.spatialtimes.com/2019/01/Create-a-JavaScript-Weather-App-with-Location-Data-Part-1/
