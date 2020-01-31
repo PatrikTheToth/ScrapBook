@@ -22,3 +22,7 @@ https://shinesolutions.com/2007/08/04/how-to-close-jdbc-resources-properly-every
 
 Weather widget app scaffolding:
 https://www.spatialtimes.com/2019/01/Create-a-JavaScript-Weather-App-with-Location-Data-Part-1/
+
+
+Hibernate fuckery untangle thingamajig:
+https://vladmihalcea.com/hypersistence-optimizer/
