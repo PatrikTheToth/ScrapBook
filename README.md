@@ -34,3 +34,7 @@ https://code.google.com/archive/p/log4jdbc/
 
 For tricky text situations:
 https://www.textpad.com/
+
+
+For hierarchical queris with jpa/hibernate:
+https://jivimberg.io/blog/2018/08/04/recursive-queries-on-rdbms-with-jpa/
