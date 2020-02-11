@@ -38,3 +38,6 @@ https://www.textpad.com/
 
 For hierarchical queris with jpa/hibernate:
 https://jivimberg.io/blog/2018/08/04/recursive-queries-on-rdbms-with-jpa/
+
+FOr SQL joins:
+https://i.imgur.com/xLTcOGi.png
