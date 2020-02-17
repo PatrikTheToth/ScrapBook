@@ -42,3 +42,6 @@ https://jivimberg.io/blog/2018/08/04/recursive-queries-on-rdbms-with-jpa/
 FOr SQL joins:
 https://i.imgur.com/xLTcOGi.png
 http://www.sqlfiddle.com/#!15/fd17c/1
+
+Alternative for generative background:
+https://code2art.jetbrains.com/
