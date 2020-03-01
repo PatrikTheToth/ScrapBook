@@ -45,3 +45,6 @@ http://www.sqlfiddle.com/#!15/fd17c/1
 
 Alternative for generative background:
 https://code2art.jetbrains.com/
+
+Solving the problem with Hibernate 5 config:
+https://stackoverflow.com/questions/32405031/hibernate-5-org-hibernate-mappingexception-unknown-entity/44898024
