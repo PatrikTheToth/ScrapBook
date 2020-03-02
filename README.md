@@ -48,3 +48,6 @@ https://code2art.jetbrains.com/
 
 Solving the problem with Hibernate 5 config:
 https://stackoverflow.com/questions/32405031/hibernate-5-org-hibernate-mappingexception-unknown-entity/44898024
+
+Hibernate scheme generating
+https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html#schema-generation
