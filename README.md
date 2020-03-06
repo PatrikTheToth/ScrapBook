@@ -51,3 +51,6 @@ https://stackoverflow.com/questions/32405031/hibernate-5-org-hibernate-mappingex
 
 Hibernate scheme generating
 https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html#schema-generation
+
+For keeping track of shit
+https://plan.toggl.com/#timeline/537379/teams/517041?zoom=month
