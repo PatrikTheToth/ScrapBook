@@ -54,3 +54,6 @@ https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Gu
 
 For keeping track of shit
 https://plan.toggl.com/#timeline/537379/teams/517041?zoom=month
+
+TDK-hoz
+https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html
