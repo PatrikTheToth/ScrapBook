@@ -61,3 +61,16 @@ https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html
 
 Tomcat:
 https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04
+
+
+
+
+
+
+
+
+
+# Python stuff
+
+Tensor JSON serialisation:
+https://stackoverflow.com/questions/26646362/numpy-array-is-not-json-serializable
