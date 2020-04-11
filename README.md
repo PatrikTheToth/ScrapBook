@@ -57,3 +57,6 @@ https://plan.toggl.com/#timeline/537379/teams/517041?zoom=month
 
 TDK-hoz
 https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html
+
+tensor Json serializacio:
+https://stackoverflow.com/questions/26646362/numpy-array-is-not-json-serializable
