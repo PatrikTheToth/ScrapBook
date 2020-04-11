@@ -57,3 +57,7 @@ https://plan.toggl.com/#timeline/537379/teams/517041?zoom=month
 
 TDK-hoz
 https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html
+
+
+Tomcat:
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04
